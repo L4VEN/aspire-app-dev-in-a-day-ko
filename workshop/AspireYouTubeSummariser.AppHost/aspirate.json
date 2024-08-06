@@ -1,0 +1,11 @@
+{
+  "TemplatePath": null,
+  "ContainerSettings": {
+    "Registry": "--non-interactive",
+    "RepositoryPrefix": "1",
+    "Tags": [
+      "latest"
+    ],
+    "Builder": "docker"
+  }
+}
